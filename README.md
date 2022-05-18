@@ -1,2 +1,1 @@
-# Demo
-it contains React components.
+Reusable React components.
